@@ -1,0 +1,7 @@
+﻿Um ein optimales Spielerlebnis zu ermöglichen brauchen Sie:
+
+- eine Oculus Rift
+- Oculus Runtime (https://developer.oculus.com/downloads/pc/0.7.0.0-beta/Oculus_Runtime_for_Windows/)
+- aktuelle Treiber für Ihre Grafikkarte
+	- NVIDIA Driver Version 355.83 or later (https://developer.nvidia.com/oculus-07-sdk-driver-support)
+	- AMD Catalyst Display Driver Version 15.200.1062.1005 or later (http://support.amd.com/en-us/kb-articles/Pages/Oculus07SDK-Driver.aspx)

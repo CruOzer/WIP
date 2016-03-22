@@ -1,0 +1,91 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R9 200 Series (ID=0x6811)
+    Vendor:   ATI
+    VRAM:     2026 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.142 seconds
+desktop: 1920x1080 60Hz; virtual: 3360x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Daten\Unity_Programme\WIP\Build\Version1_3_final_0_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+[CAPI] LibOVR module is located at C:\Windows\SYSTEM32\LibOVRRT32_0_6.dll
+
+ 
+(Filename:  Line: 52)
+
+[CAPI] ovrHmd_Create failed to complete within the timeout period.
+ 
+(Filename:  Line: 54)
+
+OVR Error:
+  OVRTime: 171975.911907
+  Time: 2015-09-16 12:59:46 [813:260:0]
+  Code: -1006 -- ovrError_ServiceError
+  Description: Blocking call not handled
+
+ 
+(Filename:  Line: 52)
+
+[CAPI] ovrHmd_CreateDebug failed: OVR Error:
+  OVRTime: 171975.911907
+  Time: 2015-09-16 12:59:46 [813:260:0]
+  Code: -1006 -- ovrError_ServiceError
+  Description: Blocking call not handled
+
+ 
+(Filename:  Line: 54)
+
+[Compositor] Failed to create Oculus HMD.
+ 
+(Filename:  Line: 54)
+
+[Compositor] ERROR: Compositor failed to initialize.
+ 
+(Filename:  Line: 54)
+
+Bad config or LibOVR not found. VR disabled.
+ 
+(Filename:  Line: 368)
+
+Could not set Oculus caps. VR disabled.
+ 
+(Filename:  Line: 940)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 400)
+
+Unity v5.1.2f1, Oculus Utilities v0.1.0, OVRPlugin v0.5.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Creating volume controller...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2724 -> priority: 1 

@@ -1,0 +1,16 @@
+﻿Die Menüs lassen sich die WASD-/Pfeiltasten oder durch die jeweils unterstrichenen Buchstaben steuern.
+
+Esc/p - Pause
+W/↑ - Vorwärts
+S/↓- Rückwärts
+A/← - Rechts
+D/→ - Links
+Q - Drehe um 45° nach links
+E - Drehe um 45° nach rechts
+Kopf rechts/Maus rechts - drehe nach rechts
+Kopf links/Maus links - drehe nach links
+Kopf hoch - drehe nach oben
+Kopf herunter - drehe nach unten
+Mause Button Links - Schießen
+
+Das benutzen der Q- und E-Tasten nicht empfehlenswert, da es schnell Übelkeit verursachen kann und das Spielerlebnis beeinträchtigt. 
